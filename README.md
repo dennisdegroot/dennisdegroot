@@ -4,7 +4,7 @@
 
 👨‍🎓 I have a background in Data Science and like data puzzles, especially when I can help other people by solving them.
 
-🔭 I'm currently working as a Data Analyst at [Digital Power](https://digital-power.com/en/ "Digital Power's website), where I help other people understanding their data. I can provide insights after doing analyses, or I can train colleagues to empower them to dive into the data themselves!
+🔭 I'm currently working as a Data Analyst at [Digital Power](https://digital-power.com/en/", "Digital Power's website), where I help other people understanding their data. I can provide insights after doing analyses, or I can train colleagues to empower them to dive into the data themselves!
 
 🌱 I'm currently learning more about Analytics Engineering and dbt. This is the time that I'll finally start filling my contributions list! 
 
